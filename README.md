@@ -34,13 +34,3 @@ Optimize for real-time processing and edge deployment.
 Improve TTS with emotion recognition and natural intonation.
 Develop web/mobile apps for user interaction.
 
-**Contributors**
-Mihir Bhagat
-Monik Mewada
-Vrushti Shah
-Diya Shah
-Udita Sinha
-
-**Mentors**
-Dr. Kavita Jain
-Prof. Pratik Desai
