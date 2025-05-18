@@ -5,12 +5,12 @@ This project develops an end-to-end multilingual speech processing system that i
 
 Features
 
-Speech Recognition: Custom CNN-RNN model and pre-trained Wav2Vec 2.0 for transcribing English speech.
+**Speech Recognition**: Custom CNN-RNN model and pre-trained Wav2Vec 2.0 for transcribing English speech.
 
-Text Correction: Combines dictionary-based and pyspellchecker methods to improve transcription accuracy.
+**Text Correction**: Combines dictionary-based and pyspellchecker methods to improve transcription accuracy.
 
-Translation: Supports translation into multiple languages using the Google Translate API.
+**Translation**: Supports translation into multiple languages using the Google Translate API.
 
-Speech Synthesis: Generates natural-sounding speech in various languages using gTTS.
+**Speech Synthesi**s: Generates natural-sounding speech in various languages using gTTS.
 
-Modular Pipeline: Scalable architecture allows independent improvement of components.
+**Modular Pipeline**: Scalable architecture allows independent improvement of components.
