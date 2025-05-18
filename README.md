@@ -14,3 +14,31 @@ Features
 **Speech Synthesi**s: Generates natural-sounding speech in various languages using gTTS.
 
 **Modular Pipeline**: Scalable architecture allows independent improvement of components.
+
+## Dataset
+We have used dataset from kaggle
+1.https://www.kaggle.com/datasets/victorling/librispeech-clean
+2.https://www.kaggle.com/datasets/yasiashpot/librispeech
+
+**Limitations**
+Custom model struggles with accents, noise, and complex sentences.
+Limited to English ASR due to LibriSpeech dataset.
+gTTS output may sound robotic for longer sentences.
+Hardware constraints limit training scalability.
+
+**Future Work**
+Enhance ASR with Transformer models and multilingual datasets.
+Optimize for real-time processing and edge deployment.
+Improve TTS with emotion recognition and natural intonation.
+Develop web/mobile apps for user interaction.
+
+**Contributors**
+Mihir Bhagat
+Monik Mewada
+Vrushti Shah
+Diya Shah
+Udita Sinha
+
+**Mentors**
+Dr. Kavita Jain
+Prof. Pratik Desai
